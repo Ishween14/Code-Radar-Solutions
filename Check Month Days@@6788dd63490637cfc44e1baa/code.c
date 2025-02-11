@@ -9,7 +9,7 @@ int main(){
         case 7:
         case 8:
         case 10:
-        case 13:
+        case 12:
         printf("31");
         break;
         case 2:
